@@ -1,0 +1,8 @@
+  
+{
+    "token": "TOKEN",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "default_prefix": "LEAVEBLANK",
+    "mongoose": "mongodb+srv://XX:<XX>@XX.XX.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
