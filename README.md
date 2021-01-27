@@ -1,2 +1,1 @@
-# discordbot
-Valorant Status BOT
+
